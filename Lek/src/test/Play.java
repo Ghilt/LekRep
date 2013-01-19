@@ -11,5 +11,12 @@ public class Play {
 	public void setBao(Bao b){
 		this.b=b;
 	}
+	
+	public boolean unplay() {
+
+		System.out.println("let's DANCE! whogogigigi bogiei");
+		return false;
+
+	}
 
 }
