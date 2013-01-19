@@ -7,5 +7,12 @@ public class Play {
 		System.out.println("let's DANCE! whogogigigi bogiei");
 
 	}
+	
+	public boolean unplay() {
+
+		System.out.println("let's DANCE! whogogigigi bogiei");
+		return false;
+
+	}
 
 }
