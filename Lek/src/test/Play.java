@@ -2,6 +2,7 @@ package test;
 
 public class Play {
 	private Bao b;
+	private Object play;
 	
 	public Play() {
 
@@ -10,6 +11,7 @@ public class Play {
 	
 	public void setBao(Bao b){
 		this.b=b;
+		play = this;
 	}
 	
 	public boolean unplay() {
