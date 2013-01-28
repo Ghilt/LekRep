@@ -1,5 +1,12 @@
 package E;
 
-public class File {
+import java.rmi.server.Skeleton;
 
+public class File {
+	private void syso() {
+		{
+			Skeleton k = null; 
+		}
+
+	}
 }
