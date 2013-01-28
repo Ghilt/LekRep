@@ -1,5 +1,6 @@
 package E;
 
+
 import java.rmi.server.Skeleton;
 
 public class File {
@@ -9,4 +10,7 @@ public class File {
 		}
 
 	}
+
+	private String whoisthamaan = "jacob";
+
 }
