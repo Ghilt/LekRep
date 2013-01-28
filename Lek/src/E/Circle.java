@@ -4,10 +4,10 @@ public class Circle {
 
 	/**
 	 * @param args
-	 * @author Philip Ståhl
+	 * @author Philip Stï¿½hl
 	 */
 	public static void main(String[] args) {
-		System.out.println("This is circle!");
+		System.out.println("This is circle!" + "if you say");
 
 	}
 
