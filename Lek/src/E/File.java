@@ -11,6 +11,6 @@ public class File {
 
 	}
 
-	private String whoisthamaan = "jacob";
+	private String whoisthamaan = "jacob this is defiantly strict logn trans";
 
 }
